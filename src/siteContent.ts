@@ -52,6 +52,7 @@ export const siteContent = {
     {
       id: "teacher-1",
       name: "ელენე ჭაბაშვილი",
+      role: "[მასწავლებლის როლი — მაგ. კორეული ენის მასწავლებელი]",
       photo: "/images/teacher-placeholder.svg",
       shortBio: "დამფუძნებელი და კორეული ენის მასწავლებელი",
       fullBio: [

@@ -22,3 +22,5 @@ serviceAccountKey.json
 .DS_Store
 *.pem
 npm-debug.log*
+
+*.tsbuildinfo
